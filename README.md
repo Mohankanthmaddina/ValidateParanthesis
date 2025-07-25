@@ -16,7 +16,6 @@ class Solution {
             if(ch==previous) c[top--]=0;
             else    c[++top]=ch;
         }
-        
         return top==-1;
     }
 }
