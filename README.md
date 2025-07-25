@@ -1,5 +1,4 @@
 # ValidateParanthesis
-# ValidateParanthesis
 class Solution {
     int top=-1;
     public boolean isValid(String s) {
